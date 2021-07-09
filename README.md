@@ -1,5 +1,9 @@
 # BanglaLM: Bangla Corpus For Language Model Research ![size: 40GB](https://img.shields.io/badge/size-40.0GB-green.svg)
 
+****Cite this dataset****👍 
+Kowsher, Md. and Uddin, Md.Jashim and Tahabilder, Anik and Ruhul Amin, Md and Shahriar, Md. Fahim and Sobuj, Md. Shohanur Islam, BanglaLM: Bangla Corpus for Language Model Research (2021). International conference on inventive research in computing applications (ICIRCA)
+
+
 This dataset consists of three parts:
 * Raw data
 * Preprocessed V1
