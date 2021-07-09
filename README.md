@@ -2,8 +2,25 @@
 
 ****Cite this dataset****👍 
 
-Kowsher, Md. and Uddin, Md.Jashim and Tahabilder, Anik and Ruhul Amin, Md and Shahriar, Md. Fahim and Sobuj, Md. Shohanur Islam, BanglaLM: Bangla Corpus for Language Model Research (2021). International conference on inventive research in computing applications (ICIRCA)
-
+```
+@inproceedings{kowsher-etal-2021-banglalm,
+    title = "BanglaLM: Bangla Corpus for Language Model Research",
+    author ="Kowsher, Md. and
+     Uddin, Md.Jashim and
+     Tahabilder, Anik and
+     Ruhul Amin, Md and
+     Shahriar, Md. Fahim and 
+     Sobuj, Md. Shohanur Islam
+     ",
+      
+    conference = "International conference on inventive research in computing applications (ICIRCA)",
+    month = "September",
+    year = "2021",
+    address = "Online",
+    publisher = "IEEE",
+    url = "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3882903"
+}
+```
 
 This dataset consists of three parts:
 * Raw data
@@ -54,5 +71,5 @@ To install the latest release, you have to do:
 ```
 For further information and introduction you can visit this Github repo: [Bangla FastText Model & Toolkit](https://github.com/Kowsher/Bangla-Fasttext)
 
-
-
+## License
+Contents of this repository are restricted to only non-commercial research purposes under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Copyright of the dataset contents belongs to the original copyright holders.
