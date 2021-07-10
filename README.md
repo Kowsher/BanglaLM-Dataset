@@ -25,11 +25,11 @@ below shows the screen copy of the dataset view using pandas data frame. We can 
     
 Here is he Summary of Preprocessed Data V2:
     
-<img src='./assets/SUMMARY OF PREPROCESSED DATA V2.png' alt = 'this is summary of preprocessed data v2' width = '50%' align=left/>
+<img src='./assets/summary_v1.png' alt = 'this is summary of preprocessed data v1' width = '50%' align=left/>
 
 <br>
 The workflow of the data collection procedure is shown below in Fig. 5.
-<img src='./assets/flowchart.png' alt = 'this is summary of preprocessed data v2' width = '50%' align=left/>
+<img src='./assets/flowchart.png' alt = 'flowchart' width = '50%' align=left/>
 </p>
 
 
