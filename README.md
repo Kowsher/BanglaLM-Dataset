@@ -44,7 +44,10 @@ You can use direct links to download the dataset.
 
 
 # Usage
-You can us this dataset to train model using our [Bangla FastText Model & Toolkit](https://pypi.org/project/BanglaFastText/)
+A [bert-base-bangla](https://huggingface.co/Kowsher/bert-base-bangla) (Transformer based Masked language model) has been developed using the dataset
+
+
+This dataset has been used to train the pretrained model [Bangla FastText Model & Toolkit](https://pypi.org/project/BanglaFastText/)
 
 To install the latest release, you have to do:
 ```bash
