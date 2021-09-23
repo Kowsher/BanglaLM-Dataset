@@ -1,4 +1,4 @@
-<img align="center" alt="banglaLM" src="./assets/data-original.png" width="100%" />
+<img align="center" alt="banglaLM" src="./assets/data-original.png" width="100%" /> 
 
 # BanglaLM: Bangla Corpus For Language Model Research ![size: 40GB](https://img.shields.io/badge/size-40.0GB-green.svg)
 
