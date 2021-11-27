@@ -10,7 +10,7 @@ This dataset consists of three parts:
 
 ## Link of the dataset
 
-> Kaggle: [BanglaLM: Bangla Corpus For Language Model Research](https:/www.kaggle.com/gakowsher/bangla-language-model-dataset)
+> Kaggle: [BanglaLM: Bangla Corpus For Language Model Research](https://www.kaggle.com/gakowsher/bangla-language-model-dataset)
 
 ## Details of the dataset
 We have collected text data which is a string of various  lengths. The total volume of the data is 14 Gigabytes. We have collected data from various websites, including newspapers, social networks, blog sites, Wikipedia, etc. The newspaper websites include Prothom Alo, BD news, Jugantor, Jaijaidin, and so on. We have collected raw data using python script and done necessary preprocessing at the time of saving the data into local memory. Then we have gone through some more preprocessing steps that have been described later in the preprocessing section of this article. We have, in the meantime, started to build some models based on
